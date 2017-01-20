@@ -109,8 +109,9 @@
         text-align: center;
       }
       #emailContent {
-        background-color: #333333;
-        color: #ffffff;
+        text-align: center;
+        background-color: #ffffff;
+        color: #333333;
         width: 650px;
         padding: 20px;
         margin: 0 auto;
@@ -150,10 +151,10 @@
         text-align: center;
         text-decoration: none;
         font-size: 16px;
-        color: #ffffff;
-        font-weight: 500;
+        color: #333333;
+        font-weight: 700;
         padding: 10px 20px;
-        border: 2px solid #ffffff;
+        border: 2px solid #333333;
         border-radius: 3px;
       }
       #spacer {
@@ -164,6 +165,8 @@
         border: 0;
       }
       #footer {
+        background-color: #333333;
+        color: #ffffff;
         text-align: center;
         padding: 30px;
 
@@ -218,19 +221,20 @@
         width: 650px;
       }
       .brochureTable {
-        padding: 10px;
-        margin: 0;
+        text-align: center;
+        margin: 0 auto;
         border: 0;
-        width: 650px;
+        width: 630px;
       }
       .brochureTable td {
-        height: 200px;
-        width: 200px;
+        padding: 10px;
+        height: 240px;
+        width: 190px;
       }
       .brochureTable img {
-        padding: 5px;
+
         text-align: center;
-        width: 200px;
+        width: 190px;
         display: block;
       }
       .brochureTable a {
@@ -252,7 +256,7 @@
         text-align: center;
         width: 350px;
         margin: 0 auto;
-        padding: 20px 0 0 0;
+        padding: 0px 0 0 0;
         border: 0;
       }
       #stiCTA {
@@ -262,12 +266,76 @@
         padding: 0;
         border:0;
       }
-      #stiCta img{
+      #stiCtaImg{
         width: 620px;
         margin: 0 auto;
-        padding: 20px 0;
+        padding: 10px 0;
         border: 0;
         display: block;
+      }
+      #oneToThree {
+        width: 650px;
+        padding: 0px;
+        margin: 0;
+        border: 0;
+        display: inline;
+        vertical-align: top;
+      }
+      #oneToThreeTable {
+        width: 650px;
+        padding: 10px;
+        margin: 0;
+        border: 0;
+        display: inline;
+        vertical-align: top;
+      }
+      #leftTableData {
+        padding: 0px;
+        margin: 0;
+        border: 0;
+        width: 250px;
+        vertical-align: top;
+      }
+      #leftInnerTable a {
+        font-size:14px;
+        font-weight: 500;
+        padding: 3px 0px 5px 20px;
+        color: #000000;
+      }
+      #leftInnerTable h2 {
+        color: #20609f;
+        font-size: 20px;
+        font-weight: 900;
+        padding: 20px 0px 5px 20px;
+      }
+      #leftInnerTable {
+        width: 250px;
+      }
+      #preOwnedCta {
+        width: 230px;
+        padding: 10px;
+        margin: 0;
+        border: 0;
+        display: inline;
+      }
+      #rightTableData {
+        padding: 5px;
+        margin: 0;
+        border: 0;
+        width: 350px;
+      }
+      #New2016Cta {
+        width: 371px;
+        padding: 12px 10px 0 0;
+        border: 0;
+        margin: 0;
+      }
+      #mainLogo {
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 20px 0;
+        border: 0;
       }
     </style>
   </head>
@@ -294,16 +362,9 @@
                 <table id="emailContent">
                   <tr>
                     <td>
-
-
-                      <p>Hello &lt;&lt;First Name&gt;&gt;,</p>
-
-
-                      <p>How is your search for a new Subaru coming along? <br /><br>
-It’s been just over a month since I received your request on a . I know the few times I purchased a vehicle, I took my time to make sure I selected the right car at the right price. I'm sure you are aware that every month car manufacturers change their incentives and offers programs. It's possible the now has a better offer or financing rate saving you more money. Remember if you have a trade, it plays a big part of overall cost. Their are many factors that play into the "Out The Door Price." Please call me at 201-327-0070 for more details.</p>
-
-</td>
-</tr>
+                      <img src="blastLogo.png" id="mainLogo">
+                    </td>
+                  </tr>
 
 
 <!-- 1 to 3 section -->
@@ -312,20 +373,23 @@ It’s been just over a month since I received your request on a . I know the fe
     <table id="oneToThreeTable">
       <tr>
         <td id="leftTableData">
-          <table id="leftInnerTable">
-            <tr>
-              <td>
-              </td>
-            </tr>
-            <tr>
-              <td>
-              </td>
-            </tr>
-          </table>
+          <div id="leftInnerTable">
+
+                <h2>Great Subaru Offers</h2>
+                <a href="http://www.ramseysubaru.net/new-inventory/index.htm">NEW INVENTORY &rtrif;</a>
+                <br>
+                <a href="http://www.ramseysubaru.net/used-inventory/index.htm">USED INVENTORY &rtrif;</a>
+
+
+
+                <a href="http://www.ramseysubaru.net/used-inventory/index.htm" style="padding:0;margin:0;border:0;"><img src="preOwnedOffer.jpg" id="preOwnedCta"></a>
+
+          </div>
 
         </td>
 
         <td id=rightTableData"">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?saveFacetState=true&year=2016&payment-selection=payment-panel-paymentLease&lastFacetInteracted=inventory-listing1-facet-anchor-year-1"><img src="2016NewCta.jpg" alt="" id="New2016Cta"></a>
 
 
         </td>
@@ -340,17 +404,20 @@ It’s been just over a month since I received your request on a . I know the fe
     <table class="brochureTable">
       <tr>
         <td>
-          <a href="http://www.volvocarsramsey.com/showroom/2017/Volvo/S60/Sedan.htm"><img src="s60.jpg" alt=""></a>
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Impreza&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-2"><img src="imprezaOffer.jpg" alt=""></a>
+          <p style="font-size: 14px;padding: 0;margin: 0;border: 0;text-align:center;font-weight: 700;">Save $2000 Off Imprezas*</p>
 
         </td>
 
         <td>
-          <a href="http://www.volvocarsramsey.com/showroom/2017/Volvo/S60+Cross+Country/Sedan.htm"><img src="s60Cc.jpg" alt=""></a>
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=WRX&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-5"><img src="wrxOffer.jpg" alt=""></a>
+          <p style="font-size: 14px;padding: 0;margin: 0;border: 0;text-align:center;font-weight: 700;">Save $2500 Off WRXs</p>
 
         </td>
 
         <td>
-          <a href="http://www.volvocarsramsey.com/showroom/2017/Volvo/S90/Sedan.htm"><img src="s90.jpg" alt=""></a>
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Forester&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-1"><img src="foresterOffer.jpg" alt=""></a>
+          <p style="font-size: 14px;padding: 0;margin: 0;border: 0;text-align:center;font-weight: 700;">Save $3000 Off Foresters*</p>
 
         </td>
       </tr>
@@ -360,7 +427,7 @@ It’s been just over a month since I received your request on a . I know the fe
 
 <tr>
   <td id="stiCTA">
-    <img src="test.png" alt="" >
+    <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=WRX&payment-selection=payment-panel-paymentLease&trim=STI&trim=STI+Limited+w%2FWing+%28M6%29&trim=STI+Limited+with+Lip&trim=STI+w%2F+Nav%2BAudio+w%2F+Harmon+Kardon%2BKeyless+Access%2BBSD%2FRCTA&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-trim-10"><img src="stiOffer.jpg" alt="" id="stiCtaImg" ></a>
 
   </td>
 </tr>
@@ -373,17 +440,21 @@ It’s been just over a month since I received your request on a . I know the fe
     <table class="brochureTable">
       <tr>
         <td>
-          <a href="http://www.volvocarsramsey.com/showroom/2017/Volvo/S60/Sedan.htm"><img src="s60.jpg" alt=""></a>
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?saveFacetState=true&model=Outback&payment-selection=payment-panel-paymentLease&lastFacetInteracted=inventory-listing1-facet-anchor-model-4"><img src="outbackOffer.jpg" alt=""></a>
+          <p style="font-size: 14px;padding: 0;margin: 0;border: 0;text-align:center;font-weight: 700;">Save $3000 Off Outbacks</p>
 
         </td>
 
         <td>
-          <a href="http://www.volvocarsramsey.com/showroom/2017/Volvo/S60+Cross+Country/Sedan.htm"><img src="s60Cc.jpg" alt=""></a>
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Crosstrek&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-0"><img src="crosstrekOffer.jpg" alt=""></a>
+
+          <p style="font-size: 14px;padding: 0;margin: 0;border: 0;text-align:center;font-weight: 700;">Save $2500 Off Crosstreks</p>
 
         </td>
 
         <td>
-          <a href="http://www.volvocarsramsey.com/showroom/2017/Volvo/S90/Sedan.htm"><img src="s90.jpg" alt=""></a>
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Legacy&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-3"><img src="legacyOffer.jpg" alt=""></a>
+          <p style="font-size: 14px;padding: 0;margin: 0;border: 0;text-align:center;font-weight: 700;">Save $3000 Off Legacys</p>
 
         </td>
       </tr>
@@ -397,9 +468,10 @@ It’s been just over a month since I received your request on a . I know the fe
       <a href="http://www.ramseysubaru.net/" class="specialCTA">SHOP ONLINE</a>
       &nbsp;&nbsp;&nbsp;&nbsp;
 
-      <a href="tel:2013270070" class="specialCTA">CONTACT US <img src="http://ramseycarsnj.github.io/subaruEmailBlastsJan2017/phoneIcon.png" style="display: inline; padding: 0px 0 0 5px;margin:-4px 0 0 0;border:0;height:18px;vertical-align: middle;"></a>
+      <a href="tel:2013270070" class="specialCTA">CONTACT US</a>
       <br>
-
+<br>
+<br>
     </p>
   </td>
 </tr>
@@ -424,6 +496,9 @@ It’s been just over a month since I received your request on a . I know the fe
                       <a href="tel:2013270070">201.327.0070</a>
                       <br>
                       <br>
+                      <p style="font-size:10px;width: 500px;text-align:center;">
+                        *Discount not available on model codes: HJA,HJB,HLA,HLB,HFA,HFB. Valid on instock models only. Inbound vehicle deals may be accpted at a deal by deal basis with manager approval. Offer not valid with any other offers or discounts. $1000 preowned (used) vehicle discount must be applied to current advertised price to be deemed valid. Not responsible for typographical errors.
+                      </p>
 
 
                     </td>
