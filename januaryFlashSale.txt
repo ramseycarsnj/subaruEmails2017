@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body style="margin: 0;padding: 0;border: 0;font-size: 100%;line-height: 1;">
+    <center>
+        <div id="bodyContainer" style="margin: 0 auto;padding: 50px 0;border: 0;font-size: 13px;height: 100%;width: 100%;font-family: Arial, sans-serif;font-weight: normal;color: #333132;background-color: #20609F;">
+          <table id="emailBody" style="margin: auto;padding: 0px;border: 0;font-size: 100%;border-collapse: collapse;border-spacing: 0;width: 650px;color: #ffffff;background-color: #ffffff;">
+            <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+              <td style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+                <table id="headerArea" style="margin: 0;padding: 0;border: 0;font-size: 100%;border-collapse: collapse;border-spacing: 0;background-color: #333333;width: 650px;">
+                  <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+                    <td class="centered" style="margin: 0;padding: 0;border: 0;font-size: 100%;text-align: center;">
+                      <a href="http://www.ramseysubaru.net/" style="margin: 0;padding: 0;border: 0;font-size: 100%;"><img src="http://ramseycarsnj.github.io/subaruEmailBlastsJan2017/ramseyLogo.png" alt="Ramsey Subaru" id="subaruLogo" style="margin: auto;padding: 20px 0;border: 0;font-size: 100%;width: 150px;text-align: center;"></a>
+                    </td>
+                  </tr>
+
+
+
+                </table>
+              </td>
+            </tr>
+            <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+              <td style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+                <table id="emailContent" style="margin: 0 auto;padding: 20px;border: 0;font-size: 100%;border-collapse: collapse;border-spacing: 0;text-align: center;background-color: #ffffff;color: #333333;width: 650px;">
+                  <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+                    <td style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+                      <img src="https://ramseycarsnj.github.io/subaruEmails2017/blastLogo.png" id="mainLogo" style="margin: 0 auto;padding: 20px 0;border: 0;font-size: 100%;width: 500px;text-align: center;">
+                    </td>
+                  </tr>
+
+
+<!-- 1 to 3 section -->
+<tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+  <td id="oneToThree" style="margin: 0;padding: 0px;border: 0;font-size: 100%;width: 650px;display: inline;vertical-align: top;">
+    <table id="oneToThreeTable" style="margin: 0;padding: 10px;border: 0;font-size: 100%;border-collapse: collapse;border-spacing: 0;width: 650px;display: inline;vertical-align: top;">
+      <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+        <td id="leftTableData" style="margin: 0;padding: 0px;border: 0;font-size: 100%;width: 250px;vertical-align: top;">
+          <div id="leftInnerTable" style="margin: 0;padding: 0;border: 0;font-size: 100%;width: 250px;text-align:left;line-height:1.4;">
+
+                <h2 style="margin: 0;padding: 20px 0px 0px 20px;border: 0;font-size: 20px;color: #20609f;font-weight: 900;text-align:left;">Great Subaru Offers</h2>
+                <a href="http://www.ramseysubaru.net/new-inventory/index.htm" style="margin: 0;padding: 3px 0px 5px 20px;border: 0;font-size: 14px;font-weight: 500;color: #000000;text-align:left;">NEW INVENTORY &rtrif;</a>
+                <br>
+                <a href="http://www.ramseysubaru.net/used-inventory/index.htm" style="margin: 0;padding: 0px 0px 5px 20px;border: 0;font-size: 14px;font-weight: 500;color: #000000;text-align:left;">USED INVENTORY &rtrif;</a>
+
+
+
+                <a href="http://www.ramseysubaru.net/used-inventory/index.htm"><img src="https://ramseycarsnj.github.io/subaruEmails2017/preOwnedOffer.jpg" id="preOwnedCta" style="margin: 0;padding: 10px;border: 0;font-size: 100%;width: 230px;display: inline;"></a>
+
+          </div>
+
+        </td>
+
+        <td id="rightTableData&quot;&quot;" style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?saveFacetState=true&year=2016&payment-selection=payment-panel-paymentLease&lastFacetInteracted=inventory-listing1-facet-anchor-year-1" style="margin: 0;padding: 0;border: 0;font-size: 100%;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/2016NewCta.jpg" alt="" id="New2016Cta" style="margin: 0;padding: 12px 10px 0 0;border: 0;font-size: 100%;width: 371px;"></a>
+
+
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<!-- THREE BUTTONS ONE -->
+<tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+  <td class="headingArea" style="margin: 0 auto;padding: 0;border: 0;font-size: 100%;text-align: center;width: 650px;">
+    <table class="brochureTable" style="margin: 0 auto;padding: 0;border: 0;font-size: 100%;border-collapse: collapse;border-spacing: 0;text-align: center;width: 630px;">
+      <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+        <td style="margin: 0;padding: 10px;border: 0;font-size: 100%;height: 240px;width: 190px;">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Impreza&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-2" style="margin: 0;padding: 0 0 0 0;border: 0;font-size: 14px;font-family: Arial, sans-serif;font-weight: bold;display: block;color: #ffffff;text-decoration: none;text-align: center;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/imprezaOffer.jpg" alt="" style="margin: 0;padding: 0;border: 0;font-size: 100%;text-align: center;width: 190px;display: block;"></a>
+          <p style="font-size: 14px;padding: 30px 40px 10px 40px;margin: 0;border: 0;text-align: center;font-weight: 700;line-height: 1.5;">Save $2000 Off Imprezas*</p>
+
+        </td>
+
+        <td style="margin: 0;padding: 10px;border: 0;font-size: 100%;height: 240px;width: 190px;">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=WRX&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-5" style="margin: 0;padding: 0 0 0 0;border: 0;font-size: 14px;font-family: Arial, sans-serif;font-weight: bold;display: block;color: #ffffff;text-decoration: none;text-align: center;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/wrxOffer.jpg" alt="" style="margin: 0;padding: 0;border: 0;font-size: 100%;text-align: center;width: 190px;display: block;"></a>
+          <p style="font-size: 14px;padding: 30px 40px 10px 40px;margin: 0;border: 0;text-align: center;font-weight: 700;line-height: 1.5;">Save $2500 Off WRXs</p>
+
+        </td>
+
+        <td style="margin: 0;padding: 10px;border: 0;font-size: 100%;height: 240px;width: 190px;">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Forester&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-1" style="margin: 0;padding: 0 0 0 0;border: 0;font-size: 14px;font-family: Arial, sans-serif;font-weight: bold;display: block;color: #ffffff;text-decoration: none;text-align: center;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/foresterOffer.jpg" alt="" style="margin: 0;padding: 0;border: 0;font-size: 100%;text-align: center;width: 190px;display: block;"></a>
+          <p style="font-size: 14px;padding: 30px 40px 10px 40px;margin: 0;border: 0;text-align: center;font-weight: 700;line-height: 1.5;">Save $3000 Off Foresters*</p>
+
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+  <td id="stiCTA" style="margin: 0 auto;padding: 0;border: 0;font-size: 100%;width: 650px;text-align: center;">
+    <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=WRX&payment-selection=payment-panel-paymentLease&trim=STI&trim=STI+Limited+w%2FWing+%28M6%29&trim=STI+Limited+with+Lip&trim=STI+w%2F+Nav%2BAudio+w%2F+Harmon+Kardon%2BKeyless+Access%2BBSD%2FRCTA&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-trim-10" style="margin: 0;padding: 0;border: 0;font-size: 100%;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/stiOffer.jpg" alt="" id="stiCtaImg" style="margin: 0 auto;padding: 10px 0;border: 0;font-size: 100%;width: 620px;display: block;"></a>
+
+  </td>
+</tr>
+
+
+
+<!-- THREE BUTTONS TWO -->
+<tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+  <td class="headingArea" style="margin: 0 auto;padding: 0;border: 0;font-size: 100%;text-align: center;width: 650px;">
+    <table class="brochureTable" style="margin: 0 auto;padding: 0;border: 0;font-size: 100%;border-collapse: collapse;border-spacing: 0;text-align: center;width: 630px;">
+      <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+        <td style="margin: 0;padding: 10px;border: 0;font-size: 100%;height: 240px;width: 190px;">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?saveFacetState=true&model=Outback&payment-selection=payment-panel-paymentLease&lastFacetInteracted=inventory-listing1-facet-anchor-model-4" style="margin: 0;padding: 0 0 0 0;border: 0;font-size: 14px;font-family: Arial, sans-serif;font-weight: bold;display: block;color: #ffffff;text-decoration: none;text-align: center;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/outbackOffer.jpg" alt="" style="margin: 0;padding: 0;border: 0;font-size: 100%;text-align: center;width: 190px;display: block;"></a>
+          <p style="font-size: 14px;padding: 30px 40px 10px 40px;margin: 0;border: 0;text-align: center;font-weight: 700;line-height: 1.5;">Save $3000 Off Outbacks</p>
+
+        </td>
+
+        <td style="margin: 0;padding: 10px;border: 0;font-size: 100%;height: 240px;width: 190px;">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Crosstrek&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-0" style="margin: 0;padding: 0 0 0 0;border: 0;font-size: 14px;font-family: Arial, sans-serif;font-weight: bold;display: block;color: #ffffff;text-decoration: none;text-align: center;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/crosstrekOffer.jpg" alt="" style="margin: 0;padding: 0;border: 0;font-size: 100%;text-align: center;width: 190px;display: block;"></a>
+
+          <p style="font-size: 14px;padding: 30px 40px 10px 40px;margin: 0;border: 0;text-align: center;font-weight: 700;line-height: 1.5;">Save $2500 Off Crosstreks</p>
+
+        </td>
+
+        <td style="margin: 0;padding: 10px;border: 0;font-size: 100%;height: 240px;width: 190px;">
+          <a href="http://www.ramseysubaru.net/new-inventory/index.htm?model=Legacy&payment-selection=payment-panel-paymentLease&payment-selection=payment-panel-paymentLease&saveFacetState=true&lastFacetInteracted=inventory-listing1-facet-anchor-model-3" style="margin: 0;padding: 0 0 0 0;border: 0;font-size: 14px;font-family: Arial, sans-serif;font-weight: bold;display: block;color: #ffffff;text-decoration: none;text-align: center;"><img src="https://ramseycarsnj.github.io/subaruEmails2017/legacyOffer.jpg" alt="" style="margin: 0;padding: 0;border: 0;font-size: 100%;text-align: center;width: 190px;display: block;"></a>
+          <p style="font-size: 14px;padding: 30px 40px 10px 40px;margin: 0;border: 0;text-align: center;font-weight: 700;line-height: 1.5;">Save $3000 Off Legacys</p>
+
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+  <td id="contactButtons" style="margin: 0 auto;padding: 0;border: 0;font-size: 100%;text-align: center;width: 650px;">
+    <p style="text-align: center;margin: 0;padding: 30px 40px 10px 40px;border: 0;font-size: 18px;line-height: 1.5;">
+      <a href="http://www.ramseysubaru.net/" class="specialCTA" style="margin: 0;padding: 10px 20px;border: 2px solid #333333;font-size: 16px;text-align: center;text-decoration: none;color: #333333;font-weight: 700;border-radius: 3px;">SHOP ONLINE</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a href="tel:2013270070" class="specialCTA" style="margin: 0;padding: 10px 20px;border: 2px solid #333333;font-size: 16px;text-align: center;text-decoration: none;color: #333333;font-weight: 700;border-radius: 3px;">CONTACT US</a>
+      <br>
+<br>
+<br>
+    </p>
+  </td>
+</tr>
+                  <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+                    <td id="spacer" style="margin: 0;padding: 0;border: 0;font-size: 100%;background-color: #ffffff;height: 1px;">
+
+                    </td>
+                  </tr>
+                  <tr style="margin: 0;padding: 0;border: 0;font-size: 100%;">
+                    <td id="footer" style="margin: 0;padding: 30px;border: 0;font-size: 100%;background-color: #333333;color: #ffffff;text-align: center;">
+                      <ul style="margin: 0;padding: 0;border: 0;font-size: 100%;list-style: none;">
+                        <li style="margin: 0;padding: 5px;border: 0;font-size: 100%;list-style: none;display: inline;"><a href="https://www.facebook.com/RamseySubaru/" style="margin: 0;padding: 0;border: 0;font-size: 16px;text-align: center;text-decoration: none;color: #ffffff;line-height: 1.3;"><img src="http://ramseycarsnj.github.io/subaruEmailBlastsJan2017/facebookIcon.png" alt="facebook" style="margin: 0;padding: 0;border: 0;font-size: 100%;width: 26px;"></a></li>
+                        <li style="margin: 0;padding: 5px;border: 0;font-size: 100%;list-style: none;display: inline;"><a href="https://twitter.com/RamseySubaruNJ" style="margin: 0;padding: 0;border: 0;font-size: 16px;text-align: center;text-decoration: none;color: #ffffff;line-height: 1.3;"><img src="http://ramseycarsnj.github.io/subaruEmailBlastsJan2017/twitterIcon.png" alt="twitter" style="margin: 0;padding: 0;border: 0;font-size: 100%;width: 26px;"></a></li>
+                        <li style="margin: 0;padding: 5px;border: 0;font-size: 100%;list-style: none;display: inline;"><a href="https://www.youtube.com/ramseysubaru" style="margin: 0;padding: 0;border: 0;font-size: 16px;text-align: center;text-decoration: none;color: #ffffff;line-height: 1.3;"><img src="http://ramseycarsnj.github.io/subaruEmailBlastsJan2017/youtubeIcon.png" alt="youtube" style="margin: 0;padding: 0;border: 0;font-size: 100%;width: 26px;"></a></li>
+                        <li style="margin: 0;padding: 5px;border: 0;font-size: 100%;list-style: none;display: inline;"><a href="https://www.instagram.com/ramseysubaru/" style="margin: 0;padding: 0;border: 0;font-size: 16px;text-align: center;text-decoration: none;color: #ffffff;line-height: 1.3;"><img src="http://ramseycarsnj.github.io/subaruEmailBlastsJan2017/instagramIcon.png" alt="instagram" style="margin: 0;padding: 0;border: 0;font-size: 100%;width: 26px;"></a></li>
+                      </ul>
+                      <br>
+                      <a href="http://www.ramseysubaru.net/" style="margin: 0;padding: 0;border: 0;font-size: 16px;text-align: center;text-decoration: none;color: #ffffff;line-height: 1.3;">Ramsey Subaru</a>
+                      <br>
+                      <a href="http://www.ramseysubaru.net/dealership/directions.htm" style="margin: 0;padding: 0;border: 0;font-size: 16px;text-align: center;text-decoration: none;color: #ffffff;line-height: 1.3;">905 Rt17s Ramsey, NJ</a>
+                      <br>
+                      <a href="tel:2013270070" style="margin: 0;padding: 0;border: 0;font-size: 16px;text-align: center;text-decoration: none;color: #ffffff;line-height: 1.3;">201.327.0070</a>
+                      <br>
+                      <br>
+                      <p style="font-size: 10px;width: 500px;text-align: center;margin: auto;padding: 30px;border: 0;line-height: 1.5;color: #fafafa;">
+                        *Discount not available on model codes: HJA,HJB,HLA,HLB,HFA,HFB. Valid on instock models only. Inbound vehicle deals may be accpted at a deal by deal basis with manager approval. Offer not valid with any other offers or discounts. $1000 preowned (used) vehicle discount must be applied to current advertised price to be deemed valid. Offer ends 1/21/17 <br> Not responsible for typographical errors.
+                      </p>
+
+
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+
+        </div>
+    </center>
+  </body>
+</html>
