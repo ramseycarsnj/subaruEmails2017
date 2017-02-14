@@ -9,11 +9,27 @@
 	],
 "creatorBuild": "25504",
 "files": {
+	"\/2000Off.png": {
+		"ft": 32768,
+		"iS": 196894,
+		"oA": 0,
+		"oAP": "\/2000Off.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/2016NewCta.jpg": {
 		"ft": 16384,
 		"iS": 431643,
 		"oA": 0,
 		"oAP": "\/2016NewCta.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/3000Off.png": {
+		"ft": 32768,
+		"iS": 241305,
+		"oA": 0,
+		"oAP": "\/3000Off.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -54,6 +70,14 @@
 		"iS": 121479,
 		"oA": 0,
 		"oAP": "\/foresterOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gwHeader.gif": {
+		"ft": 4194304,
+		"iS": 8033846,
+		"oA": 0,
+		"oAP": "\/gwHeader.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -134,6 +158,12 @@
 		"oAP": "\/preOwnedOffer.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/presidentsDaySubaru.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/presidentsDaySubaru.html",
+		"oF": 0
 		},
 	"\/ramseyLogo (1).png": {
 		"ft": 32768,
