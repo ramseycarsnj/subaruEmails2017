@@ -7,13 +7,193 @@
 		"uuidString": "B31F38BF-BF5D-4B7A-BD1F-8EAB98DF7B09"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
+	"\/2016NewCta.jpg": {
+		"ft": 16384,
+		"iS": 431643,
+		"oA": 0,
+		"oAP": "\/2016NewCta.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/5kOffSubaru.jpg": {
+		"ft": 16384,
+		"iS": 585684,
+		"oA": 0,
+		"oAP": "\/5kOffSubaru.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/blastLogo.png": {
+		"ft": 32768,
+		"iS": 15330,
+		"oA": 0,
+		"oAP": "\/blastLogo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/crosstrekOffer.jpg": {
+		"ft": 16384,
+		"iS": 137077,
+		"oA": 0,
+		"oAP": "\/crosstrekOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/facebookIcon.png": {
+		"ft": 32768,
+		"iS": 2390,
+		"oA": 0,
+		"oAP": "\/facebookIcon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/foresterOffer.jpg": {
+		"ft": 16384,
+		"iS": 121479,
+		"oA": 0,
+		"oAP": "\/foresterOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hs\/carlos.jpg": {
+		"ft": 16384,
+		"iS": 111133,
+		"oA": 0,
+		"oAP": "\/hs\/carlos.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hs\/dan.jpg": {
+		"ft": 16384,
+		"iS": 125062,
+		"oA": 0,
+		"oAP": "\/hs\/dan.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hs\/jeff.jpg": {
+		"ft": 16384,
+		"iS": 105934,
+		"oA": 0,
+		"oAP": "\/hs\/jeff.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hs\/tyler.jpg": {
+		"ft": 16384,
+		"iS": 133408,
+		"oA": 0,
+		"oAP": "\/hs\/tyler.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/imprezaOffer.jpg": {
+		"ft": 16384,
+		"iS": 112635,
+		"oA": 0,
+		"oAP": "\/imprezaOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/instagramIcon.png": {
+		"ft": 32768,
+		"iS": 4410,
+		"oA": 0,
+		"oAP": "\/instagramIcon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/januaryFlashSale.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/januaryFlashSale.txt",
+		"oF": 0
+		},
+	"\/legacyOffer.jpg": {
+		"ft": 16384,
+		"iS": 115516,
+		"oA": 0,
+		"oAP": "\/legacyOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/outbackOffer.jpg": {
+		"ft": 16384,
+		"iS": 112470,
+		"oA": 0,
+		"oAP": "\/outbackOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/preOwnedOffer.jpg": {
+		"ft": 16384,
+		"iS": 68934,
+		"oA": 0,
+		"oAP": "\/preOwnedOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ramseyLogo (1).png": {
+		"ft": 32768,
+		"iS": 12757,
+		"oA": 0,
+		"oAP": "\/ramseyLogo (1).png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ramseyLogo.png": {
+		"ft": 32768,
+		"iS": 12757,
+		"oA": 0,
+		"oAP": "\/ramseyLogo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/stiOffer.jpg": {
+		"ft": 16384,
+		"iS": 168459,
+		"oA": 0,
+		"oAP": "\/stiOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/subaruBase.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/subaruBase.html",
 		"oF": 0
+		},
+	"\/subaruInlined.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/subaruInlined.html",
+		"oF": 0
+		},
+	"\/twitterIcon.png": {
+		"ft": 32768,
+		"iS": 4205,
+		"oA": 0,
+		"oAP": "\/twitterIcon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wrxOffer.jpg": {
+		"ft": 16384,
+		"iS": 93899,
+		"oA": 0,
+		"oAP": "\/wrxOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/youtubeIcon.png": {
+		"ft": 32768,
+		"iS": 2313,
+		"oA": 0,
+		"oAP": "\/youtubeIcon.png",
+		"oF": 0,
+		"opt": 0
 		}
 	},
 "hooks": [
@@ -672,6 +852,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -1211,6 +1395,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
