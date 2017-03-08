@@ -33,6 +33,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/500OffOffer.png": {
+		"ft": 32768,
+		"iS": 762456,
+		"oA": 0,
+		"oAP": "\/500OffOffer.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/5kOffSubaru.jpg": {
 		"ft": 16384,
 		"iS": 585684,
@@ -143,6 +151,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/obadleg.png": {
+		"ft": 32768,
+		"iS": 320513,
+		"oA": 0,
+		"oAP": "\/obadleg.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/outbackOffer.jpg": {
 		"ft": 16384,
 		"iS": 112470,
@@ -189,11 +205,51 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/stpats.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/stpats.html",
+		"oF": 0
+		},
+	"\/stPats500.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/stPats500.html",
+		"oF": 0
+		},
+	"\/stPats500Inlined.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/stPats500Inlined.html",
+		"oF": 0
+		},
+	"\/stpatsHeader.gif": {
+		"ft": 4194304,
+		"iS": 1027221,
+		"oA": 0,
+		"oAP": "\/stpatsHeader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/stpatsInlined.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/stpatsInlined.html",
+		"oF": 0
+		},
 	"\/subaruBase.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/subaruBase.html",
 		"oF": 0
+		},
+	"\/subaruHeader.png": {
+		"ft": 32768,
+		"iS": 30224,
+		"oA": 0,
+		"oAP": "\/subaruHeader.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/subaruInlined.html": {
 		"ft": 8192,
@@ -214,6 +270,14 @@
 		"iS": 93899,
 		"oA": 0,
 		"oAP": "\/wrxOffer.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/xvImpFor.png": {
+		"ft": 32768,
+		"iS": 316903,
+		"oA": 0,
+		"oAP": "\/xvImpFor.png",
 		"oF": 0,
 		"opt": 0
 		},
