@@ -7,15 +7,17 @@
 		"uuidString": "B31F38BF-BF5D-4B7A-BD1F-8EAB98DF7B09"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25704",
 "files": {
 	"\/2000Off.png": {
 		"ft": 32768,
 		"iS": 196894,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/2000Off.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/2016NewCta.jpg": {
 		"ft": 16384,
@@ -23,23 +25,68 @@
 		"oA": 0,
 		"oAP": "\/2016NewCta.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
+		},
+	"\/2kMarch.png": {
+		"ft": 32768,
+		"iS": 645742,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/2kMarch.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2kMarch1.png": {
+		"ft": 32768,
+		"iS": 580081,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/2kMarch1.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/3000Off.png": {
 		"ft": 32768,
 		"iS": 241305,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/3000Off.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
+		},
+	"\/3kMarch.png": {
+		"ft": 32768,
+		"iS": 666028,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/3kMarch.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/3kMarch1.png": {
+		"ft": 32768,
+		"iS": 571203,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/3kMarch1.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/500OffOffer.png": {
 		"ft": 32768,
 		"iS": 762456,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/500OffOffer.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/5kOffSubaru.jpg": {
 		"ft": 16384,
@@ -47,15 +94,18 @@
 		"oA": 0,
 		"oAP": "\/5kOffSubaru.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/blastLogo.png": {
 		"ft": 32768,
 		"iS": 15330,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/blastLogo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/crosstrekOffer.jpg": {
 		"ft": 16384,
@@ -63,15 +113,18 @@
 		"oA": 0,
 		"oAP": "\/crosstrekOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/facebookIcon.png": {
 		"ft": 32768,
 		"iS": 2390,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/facebookIcon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/foresterOffer.jpg": {
 		"ft": 16384,
@@ -79,7 +132,8 @@
 		"oA": 0,
 		"oAP": "\/foresterOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/gwHeader.gif": {
 		"ft": 4194304,
@@ -95,7 +149,8 @@
 		"oA": 0,
 		"oAP": "\/hs\/carlos.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/hs\/dan.jpg": {
 		"ft": 16384,
@@ -103,7 +158,8 @@
 		"oA": 0,
 		"oAP": "\/hs\/dan.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/hs\/jeff.jpg": {
 		"ft": 16384,
@@ -111,7 +167,8 @@
 		"oA": 0,
 		"oAP": "\/hs\/jeff.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/hs\/tyler.jpg": {
 		"ft": 16384,
@@ -119,7 +176,8 @@
 		"oA": 0,
 		"oAP": "\/hs\/tyler.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/imprezaOffer.jpg": {
 		"ft": 16384,
@@ -127,15 +185,18 @@
 		"oA": 0,
 		"oAP": "\/imprezaOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/instagramIcon.png": {
 		"ft": 32768,
 		"iS": 4410,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/instagramIcon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/januaryFlashSale.txt": {
 		"ft": 8192,
@@ -149,15 +210,42 @@
 		"oA": 0,
 		"oAP": "\/legacyOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
+		},
+	"\/madnessbottom.jpg": {
+		"ft": 16384,
+		"iS": 516805,
+		"oA": 0,
+		"oAP": "\/madnessbottom.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/madnesstop.jpg": {
+		"ft": 16384,
+		"iS": 1368941,
+		"oA": 0,
+		"oAP": "\/madnesstop.jpg",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/marchMadness.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/marchMadness.html",
+		"oF": 0
 		},
 	"\/obadleg.png": {
 		"ft": 32768,
 		"iS": 320513,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/obadleg.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/outbackOffer.jpg": {
 		"ft": 16384,
@@ -165,7 +253,8 @@
 		"oA": 0,
 		"oAP": "\/outbackOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/preOwnedOffer.jpg": {
 		"ft": 16384,
@@ -173,7 +262,8 @@
 		"oA": 0,
 		"oAP": "\/preOwnedOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/presidentsDaySubaru.html": {
 		"ft": 8192,
@@ -184,18 +274,22 @@
 	"\/ramseyLogo (1).png": {
 		"ft": 32768,
 		"iS": 12757,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/ramseyLogo (1).png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/ramseyLogo.png": {
 		"ft": 32768,
 		"iS": 12757,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/ramseyLogo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/stiOffer.jpg": {
 		"ft": 16384,
@@ -203,7 +297,8 @@
 		"oA": 0,
 		"oAP": "\/stiOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/stpats.html": {
 		"ft": 8192,
@@ -246,10 +341,12 @@
 	"\/subaruHeader.png": {
 		"ft": 32768,
 		"iS": 30224,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/subaruHeader.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/subaruInlined.html": {
 		"ft": 8192,
@@ -260,10 +357,12 @@
 	"\/twitterIcon.png": {
 		"ft": 32768,
 		"iS": 4205,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/twitterIcon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/wrxOffer.jpg": {
 		"ft": 16384,
@@ -271,23 +370,28 @@
 		"oA": 0,
 		"oAP": "\/wrxOffer.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/xvImpFor.png": {
 		"ft": 32768,
 		"iS": 316903,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/xvImpFor.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/youtubeIcon.png": {
 		"ft": 32768,
 		"iS": 2313,
-		"oA": 0,
+		"l": 1,
+		"oA": 1,
 		"oAP": "\/youtubeIcon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -297,7 +401,7 @@
 "projectAttributes": {
 	"creationDate": 506550121,
 	"displayValue": "subaruEmails2017",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-krieger"
 	},
 "projectSettings": {
@@ -970,6 +1074,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1167,6 +1275,10 @@
 			"optionString": "{'grouping': false, 'allowCall': false }"
 			},
 		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1446,6 +1558,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -1497,6 +1613,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -1591,6 +1711,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -2037,7 +2161,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2125,12 +2250,14 @@
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
